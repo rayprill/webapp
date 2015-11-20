@@ -1,5 +1,5 @@
-Docker Fundamentals WebApp
-==========================
+Docker Funny-Damentals WebApp
+=============================
 
 The Docker Fundamentals repository contains the example Hello World Python WebApp
 
